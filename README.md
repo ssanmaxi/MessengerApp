@@ -3,7 +3,7 @@
 A simple MessengerApp with chatting, user profiles, user profile avatars, chat lobbies and invitation link to chat lobbies features.
 
 ## Technical stack 
-C#, .NET, PostgreSQL, Redis, JWT
+C#, .NET, PostgreSQL, Redis, JWT, Oauth2.0, SignalR
 
 ## How to run:
   1. `docker-compose up -d`
